@@ -14,9 +14,9 @@
 
 | 技能 | 解决什么问题 | 使用前需要什么 | 入口 |
 | --- | --- | --- | --- |
-| `manage-taskboard` | 通过 `taskctl` 查询、认领、更新任务板事项 | 已安装 `taskctl`，且能连接相应任务板服务 | [SKILL.md](skills/manage-taskboard/SKILL.md) |
-| `jingyan` | 从项目证据提取可复用方法，在新任务中注入，并用复盘闭环 | Python 3、自己指定的经验库目录 | [SKILL.md](skills/jingyan/SKILL.md) |
-| `knowledge-base-sync` | 在 macOS 上同步自己的本地 Git 知识库与远端 | 已有 Git 仓库、正确配置的远端和 Git 凭据 | [SKILL.md](skills/knowledge-base-sync/SKILL.md) |
+| `manage-taskboard` | 通过 `taskctl` 查询、认领、更新任务板事项 | 已安装 `taskctl`，且能连接相应任务板服务 | [README](skills/manage-taskboard/README.md) · [SKILL.md](skills/manage-taskboard/SKILL.md) |
+| `jingyan` | 从项目证据提取可复用方法，在新任务中注入，并用复盘闭环 | Python 3、自己指定的经验库目录 | [README](skills/jingyan/README.md) · [SKILL.md](skills/jingyan/SKILL.md) |
+| `knowledge-base-sync` | 在 macOS 上同步自己的本地 Git 知识库与远端 | 已有 Git 仓库、正确配置的远端和 Git 凭据 | [README](skills/knowledge-base-sync/README.md) · [SKILL.md](skills/knowledge-base-sync/SKILL.md) |
 
 这些技能分别服务于任务跟踪、经验复用和知识库同步；互相独立，可只安装需要的一个。
 
