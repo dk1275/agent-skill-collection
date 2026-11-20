@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 经验传承"
+  short_description: "沉淀、检索与验证跨项目经验"
+  default_prompt: "Use $jingyan to retrieve formal methods for this task and capture reusable lessons under the library policy."
+policy:
+  allow_implicit_invocation: true
+
