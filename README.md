@@ -9,7 +9,6 @@
 | [manage-taskboard](skills/manage-taskboard/SKILL.md) | 管理任务板 |
 | [jingyan](skills/jingyan/SKILL.md) | 跨项目经验复用 |
 | [knowledge-base-sync](skills/knowledge-base-sync/SKILL.md) | 同步自有知识库；先配置私有远端与路径 |
-| [workbuddy-cli-model-bridge](skills/workbuddy-cli-model-bridge/SKILL.md) | WorkBuddy 本地模型桥接 |
 
 ## 其他常驻技能的原仓库
 
